@@ -1,9 +1,6 @@
 package com.reddrop.organization.repository;
 
 import com.reddrop.organization.entity.Organization;
-<parameter name="CodeContent">package com.reddrop.organization.repository;
-
-import com.reddrop.organization.entity.Organization;
 import com.reddrop.organization.entity.OrganizationType;
 import com.reddrop.organization.entity.VerificationStatus;
 import com.reddrop.user.entity.AppUser;
